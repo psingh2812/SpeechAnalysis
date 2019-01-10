@@ -1,4 +1,4 @@
 # SpeechAnalysis
 
-Please read the documentation to run the code on your data
+Please read "How to run" doc to run the code on your data
 
