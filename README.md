@@ -1,6 +1,4 @@
-# congressmanspeechanalysis
+# SpeechAnalysis
 
-@Author:
-Anannya Das
-#
-Copyright © 2018 anannyadas
+Please read the documentation to run the code on your data
+
